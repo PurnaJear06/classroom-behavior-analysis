@@ -2,7 +2,9 @@
 
 <div align="center">
 
-![Classroom Behavior Analysis Banner](https://via.placeholder.com/1200x300?text=Classroom+Behavior+Analysis+System)
+<!-- Replace this with your actual banner image -->
+<!-- ![Classroom Behavior Analysis Banner](https://via.placeholder.com/1200x300?text=Classroom+Behavior+Analysis+System) -->
+![Classroom Behavior Analysis Banner](assets/images/banner.jpg)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -16,7 +18,9 @@
 **Classroom Behavior Analysis System** is a groundbreaking AI-powered platform that revolutionizes how educators understand and improve classroom dynamics. By leveraging computer vision and AI, the system automatically tracks student behaviors, identifies engagement patterns, and provides actionable insights for teachers.
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=Classroom+Analysis+Dashboard" alt="Dashboard Preview" width="80%"/>
+  <!-- Replace with actual dashboard screenshot -->
+  <!-- <img src="https://via.placeholder.com/800x400?text=Classroom+Analysis+Dashboard" alt="Dashboard Preview" width="80%"/> -->
+  <img src="assets/images/dashboard.jpg" alt="Dashboard Preview" width="80%"/>
 </div>
 
 ## ✨ Key Features
@@ -65,10 +69,12 @@
 ## 🎥 Demo
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x450?text=Application+Demo+GIF" alt="Demo GIF" width="80%"/>
+  <!-- Replace with actual demo GIF -->
+  <!-- <img src="https://via.placeholder.com/800x450?text=Application+Demo+GIF" alt="Demo GIF" width="80%"/> -->
+  <img src="assets/images/demo.gif" alt="Demo GIF" width="80%"/>
 </div>
 
-> **Note**: Add your own demo GIF or video showing the application analyzing classroom behavior and generating insights.
+> **Note**: This demo shows the application analyzing classroom behavior and generating insights in real-time.
 
 ## 🚀 Quick Start
 
@@ -82,7 +88,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/classroom-behavior-analysis.git
+git clone https://github.com/PurnaJear06/classroom-behavior-analysis.git
 cd classroom-behavior-analysis
 
 # Create and activate virtual environment
@@ -103,7 +109,9 @@ python run.py
 ## 📊 Usage Guide
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x600?text=Application+Workflow" alt="Workflow Diagram" width="80%"/>
+  <!-- Replace with actual workflow diagram -->
+  <!-- <img src="https://via.placeholder.com/800x600?text=Application+Workflow" alt="Workflow Diagram" width="80%"/> -->
+  <img src="assets/images/workflow.jpg" alt="Workflow Diagram" width="80%"/>
 </div>
 
 1. **Configure Settings**: Use the sidebar to set detection parameters
@@ -128,7 +136,9 @@ python run.py
 ## 🧰 Technical Architecture
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x600?text=System+Architecture+Diagram" alt="Architecture Diagram" width="80%"/>
+  <!-- Replace with actual architecture diagram -->
+  <!-- <img src="https://via.placeholder.com/800x600?text=System+Architecture+Diagram" alt="Architecture Diagram" width="80%"/> -->
+  <img src="assets/images/architecture.jpg" alt="Architecture Diagram" width="80%"/>
 </div>
 
 ### Computer Vision Pipeline
