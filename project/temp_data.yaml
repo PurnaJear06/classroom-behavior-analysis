@@ -1,0 +1,29 @@
+names:
+- Attentive
+- Boord
+- Distractive
+- Eyes Closed
+- Face Covered
+- Facing Down
+- Laughing
+- Normal activity
+- Outside Classroom
+- Seeing Outside
+- Sleeping
+- Standing
+- Talking
+- Tired
+- Using Laptop
+- Using Mobile
+- Writing Notes
+- facing back
+nc: 18
+roboflow:
+  license: CC BY 4.0
+  project: capstone-yqcnt
+  url: https://universe.roboflow.com/capstone-acx95/capstone-yqcnt/dataset/2
+  version: 2
+  workspace: capstone-acx95
+test: /Users/purnajear/Downloads/Capstone v1/dataset/test/images
+train: /Users/purnajear/Downloads/Capstone v1/dataset/train/images
+val: /Users/purnajear/Downloads/Capstone v1/dataset/valid/images
